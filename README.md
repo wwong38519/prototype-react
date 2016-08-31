@@ -2,11 +2,13 @@
 
 ### Description
 
-* Basic setup for ReactJS+ES5 development
+* Basic setup for ReactJS+ES6 development
 * Gulp, Babel, Browserify
 * Docker
 
 #### Docker
+
+* The Docker image is based on [Run Node 6.x on Raspberry Pi (Raspbian)](https://gist.github.com/wwong38519/00ab2397abbbe3336486e34c8e644381#file-dockerfile)
 
 * Build Docker Image
 ```
